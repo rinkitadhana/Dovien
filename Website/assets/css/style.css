@@ -1586,6 +1586,13 @@ box-shadow: rgba(39, 39, 39, 0.25) 0px 10px 20px;
   color: #fff;
 }
 
+#footer .footer-top .footer-info a {
+  color: white;
+}
+#footer .footer-top .footer-info a:hover {
+  color: #9c6644;
+}
+
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
