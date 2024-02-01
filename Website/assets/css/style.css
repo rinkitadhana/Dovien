@@ -87,7 +87,8 @@ h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  margin-top: 6px;
+  max-height: 190px;
 }
 
 /*--------------------------------------------------------------
