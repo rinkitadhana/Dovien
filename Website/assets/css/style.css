@@ -1725,69 +1725,6 @@ box-shadow: rgba(39, 39, 39, 0.25) 0px 10px 20px;
 
 
 
-/*--------CALL OPTION------*/
-
-#options-container {
-  position: fixed;
-  bottom: 15px; /* Adjusted from bottom to top */
-  right: 15px;
-  z-index: 99;
-}
-
-#options-button {
-  background-color: #3498db;
-  color: #fff;
-  height: 55px;
-  width: 55px;
-  border-radius: 35px;
-  padding: 10px;
-  border: none;
-  cursor: pointer;
-}
-
-#options-button:hover {
-  background-color: #65a7d3;
- 
-}
-
-#options-menu {
-  display: none;
-  position: absolute;
-  width: 150px;
-  right: 10px; /* Adjusted width */
-  bottom: 60px; /* Adjusted from bottom to top */
-  background-color: #f8f8f8;
-  border-radius: 5px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-}
-
-#options-menu ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-#options-menu li {
-width: 100%; /* Set the width to 100% */
-  padding: 10px;
-  cursor: pointer;
-}
-
-#options-menu a{
-  color:black;
-}
-
-
-#options-menu li:hover {
-  background-color: #f0f0f0;
-}
-
-
-/*------CALL OPTION END------*/
-
-
-
-
 
 
 
