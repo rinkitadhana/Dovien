@@ -1178,6 +1178,21 @@ font-size: 22px;
 }
 
 
+
+
+.video-section{
+  padding: 30px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border: 2px solid #ddd;
+  border-radius: 15px;
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+
+}
+.video-section:hover{
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
 /*SERVICES*/
 
 
@@ -1722,10 +1737,5 @@ box-shadow: rgba(39, 39, 39, 0.25) 0px 10px 20px;
   font-size: 13px;
   color: #fff;
 }
-
-
-
-
-
 
 
